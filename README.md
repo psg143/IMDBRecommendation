@@ -38,9 +38,6 @@ This project focuses on extracting movie data from IMDb for 2024, specifically t
 - Incorporate advanced NLP techniques like BERT for better recommendations.
 - Add support for multilingual storylines.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 - IMDb for providing the movie data.
 - Open-source libraries and tools used in this project.
