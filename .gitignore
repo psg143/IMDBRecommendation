@@ -1,0 +1,4 @@
+/.venv
+/movie_cleaned_data.csv
+/movie_data.csv
+/movie_vector_data.csv
